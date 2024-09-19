@@ -6,6 +6,8 @@
 -
 ![Editing Components (4)](https://github.com/user-attachments/assets/7684322d-1ef4-4af9-8665-ef2c84c41e1c)
 -
+-Conecte um botão entre o pino de 5V e o pino digital D2 do Arduino, com um resistor de 10kΩ ao GND. O ânodo do LED deve ser ligado ao pino D12, e o cátodo a um resistor de 220Ω, que se conecta ao GND.
+Conecte os pinos de 5V e GND do Arduino à protoboard. Este circuito serve para acender o LED quando o botão é pressionado.
 -
 # Materiais
 1 Fio de 10 k ohm,
